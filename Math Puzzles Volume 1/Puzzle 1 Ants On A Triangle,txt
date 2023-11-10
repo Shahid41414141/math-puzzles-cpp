@@ -1,0 +1,6 @@
+Three ants are positioned on separate corners of a triangle.
+If each ant moves along an edge toward a randomly chosen corner,
+what is the chance that none of the ants collide?
+How would the problem generalize if there were n ants positioned on
+the vertices of a regular n-gon, again each moving along an edge to
+a random adjacent vertex?
