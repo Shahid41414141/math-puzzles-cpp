@@ -1,0 +1,10 @@
+Puzzle 4: Slicing Up A Pie
+Alice and Bob are preparing for a holiday party, and each has a pie
+to slice up into pieces.
+They decide to have a little contest to make things fun. Each person
+is allowed to make 3 cuts of the pie with a knife, and whoever ends
+up with more pieces is the winner. They agree stacking is not
+allowed, but that “center” pieces without the edge crust are
+permissible.
+How many pieces can be made using 3 cuts? What about 4 cuts, or
+more generally n cuts?
